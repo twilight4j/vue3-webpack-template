@@ -14,7 +14,7 @@ module.exports = {
   parserOptions: {
     parser: '@babel/eslint-parser'
   },
-  ruels: {
+  rules: {
     
   }
 }
